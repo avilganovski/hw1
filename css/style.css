@@ -1,0 +1,28 @@
+    body{
+	background-color:  #E6E6E6;
+    }
+    .all{
+    font-family: 'Roboto', sans-serif;
+	margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 36%;
+	background-color: white;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    }
+    .FioPic{
+    text-align: center;
+    margin: auto;
+    }
+    .basic{
+	font-size: 17px;
+	margin: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+    }
+    .separator{
+	border-bottom: 1px solid black;
+	margin: auto;
+	margin-right: 5%;
+	margin-left: 5%;
+    }
